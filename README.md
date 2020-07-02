@@ -1,3 +1,3 @@
 # go-with-prow
 
-test
+tests
